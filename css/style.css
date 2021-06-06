@@ -1,0 +1,40 @@
+body {
+    background-color: #f3f0d7;
+}
+
+header img {
+    width: 90px;
+}
+
+header nav {
+    float: right;
+}
+
+header nav ul {
+    list-style: none;
+}
+
+header nav ul li {
+    float: right;
+    padding: 12px;
+    margin: 12px;
+}
+
+main h1 {
+    color: #fdfaf6;
+    background-color: #564a4a;
+    text-align: center;
+}
+
+main img {
+    width: 100%;
+}
+main p {
+    text-align: center;
+}
+footer {
+    text-align: right;
+    background: #222;
+    color: #fff;
+    line-height: 40px
+  }
